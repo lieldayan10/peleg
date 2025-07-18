@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>פלג</title>
+    <style>
+        body {
+            background-color:lightpink;
+        img{
+            width:200px;
+            height:175px;
+            margin:20px;
+        }
+    </style>
+</head>
+<body dir="rtl">
+    <h1>קופיקו שלי</h1>
+    <p id="פתיחה">
+        מי היה מאמין שככה תעבור לנו שנה?
+        <br \ />
+        חשבתי המון איך אפשר לסכם את השנה הזאת, חיפשתי דרך מקורית, מושקעת והכי חשוב יוצאת דופן.
+       <br \ />
+        מפה לשם ומשם לפה, צץ לי רעיון על איך אני עושה את זה.
+        <br \ />
+        בקיצור תקבלי בהמון מחיאות כפיים את סיכום השנה הראשונה שלנו, בהזדמנות זאת נאחל לנו עוד עשרות שנים רבות אחד לצד השניה.
+        <br \ />
+  לפני שנתחיל בואי נשמע איזה שיר שקצת מזכיר את ההתחלה שלנו ואת האתגרים שעמדנו בהם יחדיו.
+        <br \ />
+        <a href="https://www.youtube.com/watch?v=LvxZC4lfIts" class="link-button" target="-b">תתני לחיצה פה אל תתביישי</a><br><br>
+<br />
+        <h2>חדשות ליאל נט</h2>
+        <br />
+        <video controls>
+            <source src="<a href=" Bin /מרדף לאור יום.html">Bin/מרדף לאור יום.html</a>"
+        </video>
+        תל אביב: בחורה מאוהבת רודפת אחר בחיר ליבה לעיני המצלמות.
+    </p>
+    <a href="HtmlPage.html">1 </a>
+    <a href="משחקון.html">2 </a>
+    <a href="3.html">3</a>
+</body>
+</html>
